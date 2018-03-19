@@ -16,7 +16,7 @@ For running the code and achieving the results:
 Negahdari Ki, Arash (2018), “36 Stock Indices and Commodity Prices Time Series”, Mendeley Data, v1
 http://dx.doi.org/10.17632/x744mgjpkv.1
 
-2) Change the path variable in both codes of ConKruG.py and HyS3.py
+2) Change the path variable to your path of dataset in both codes of ConKruG.py and HyS3.py
 
 3) Run HyS3.py (python HyS3.py) and select which models accuracy do you want to see
 
